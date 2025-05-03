@@ -38,7 +38,7 @@ function savePDFToIndexedDB(file) {
           console.log("PDF bulunamadı.");
         }
       };
-    };
+    }; 
   }
   
   // IndexedDB'den PDF'i sil
